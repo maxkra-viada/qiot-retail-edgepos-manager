@@ -1,0 +1,1 @@
+# hackfest-retail-pos-manager
