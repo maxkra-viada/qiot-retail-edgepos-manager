@@ -1,4 +1,4 @@
-# retail-pos-manager
+# qiot-retail-edgepos-manager
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
