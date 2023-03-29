@@ -1,4 +1,4 @@
-package io.hackfest.dbmodel;
+package io.hackfest.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

@@ -1,6 +1,6 @@
 package io.hackfest;
 
-import io.hackfest.dbmodel.DbPosUpdate;
+import io.hackfest.model.DbPosUpdate;
 
 import javax.inject.Inject;
 
